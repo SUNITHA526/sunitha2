@@ -1,0 +1,39 @@
+h2{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: 10px;
+    border-color: black;
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+    text-decoration: underline; color: black; 
+}
+div{
+    background-color: grey;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-various-makeup-products-lie-on-a-table-on-dark-image_2908578.jpg" width="330" height="300">);
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-various-makeup-products-lie-on-a-table-on-dark-image_2908578.jpg" width="330" height="300">);
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-various-makeup-products-lie-on-a-table-on-dark-image_2908578.jpg" width="330" height="300">);
+    
+}
+body{
+    background: linear-gradient(green,red,blue);
+}
+p{
+    background-color: chartreuse;color: black;
+    border: 10px;
+    border-color: blue;
+    padding: 40px;
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    text-shadow: 5px;
+    
+    
+}
+section{
+    background-image: url("https://media.istockphoto.com/id/1289220585/photo/woman-applying-moisturiser-on-face-during-morning-routine.jpg?s=2048x2048&w=is&k=20&c=TxqENnEeAApAKUxyBmyUGkN9AyUn7_TZ0G2v35XM9_8=" width="300"height="300">);
+    background-image: url("https://media.istockphoto.com/id/1289220585/photo/woman-applying-moisturiser-on-face-during-morning-routine.jpg?s=2048x2048&w=is&k=20&c=TxqENnEeAApAKUxyBmyUGkN9AyUn7_TZ0G2v35XM9_8=" width="300"height="300">);
+    background-image: url("https://media.istockphoto.com/id/1289220585/photo/woman-applying-moisturiser-on-face-during-morning-routine.jpg?s=2048x2048&w=is&k=20&c=TxqENnEeAApAKUxyBmyUGkN9AyUn7_TZ0G2v35XM9_8=" width="300"height="300">);
+                
+    
+}
